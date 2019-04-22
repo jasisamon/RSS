@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+
+<channel>
+
+<title>El tiempo 1</title>
+
+<link>http://www.wetterzentrale.de/topkarten</link>
+
+<description>El tiempo por wetterzentrale</description>
+
+<item>
+
+<title>El tiempo 2</title>
+
+<link>https://www.accuweather.com/es/es/spain-weather</link>
+
+<description>El tiempo por accuweather</description>
+
+</item>
+
+<item>
+
+<title>El tiempo 3</title>
+
+<link>http://http://www.aemet.es/es/portada</link>
+
+<description>El timpo por la aemet</description>
+
+</item>
+
+<item>
+
+<title>El tiempo 4</title>
+
+<link>https://www.tiempo.es</link>
+
+<description>El tiempo por tiempo</description>
+
+</item>
+
+<item>
+
+<title>El tiempo 5</title>
+
+<link>https://es.weather-forecast.com</link>
+
+<description>El tiempo por forecast</description>
+
+</item>
+
+</channel>
+
+</rss>
